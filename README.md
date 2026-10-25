@@ -2,6 +2,8 @@
 
 **NBA Street Homecourt (Xbox 360) running natively on a jailbroken PS5**, at 1440p and a locked 60 fps.
 
+[![Get it on RecompStore](https://recompstore.com/assets/press/badge-dark.svg)](https://recompstore.com/game/PPSA93007)
+
 The game is statically recompiled, not emulated: its Xbox 360 code is turned into a native PS5 program, with a hub made for the DualSense.
 
 ## What's in it
